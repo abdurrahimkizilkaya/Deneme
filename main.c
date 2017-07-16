@@ -3,5 +3,5 @@
 void main()
 {
 
-  return;
+  return 0;
 }
