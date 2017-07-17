@@ -6,3 +6,8 @@ void main()
 	int v2=0;
   return 0;
 }
+
+void func2()
+{
+	
+}
