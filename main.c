@@ -3,8 +3,7 @@
 void main()
 {
 	int v1=0;
-	cinweel;
-	
-	234gag;
+	int v2=0;
+
   return 0;
 }
