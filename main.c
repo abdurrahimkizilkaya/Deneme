@@ -3,6 +3,6 @@
 void main()
 {
 	int v1=0;
-	cinweel;
+	int v2=0;
   return 0;
 }
