@@ -8,6 +8,11 @@ void main()
   return 0;
 }
 
+void func2()
+{
+	
+}
+
 void foo()
 {
 	
