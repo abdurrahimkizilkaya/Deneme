@@ -12,3 +12,9 @@ void func2()
 {
 	
 }
+
+void foo()
+{
+	
+}
+
